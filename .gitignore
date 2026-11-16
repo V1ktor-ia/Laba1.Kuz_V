@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.so
+*.c
+*.html
+*.egg-info/
+build/
+dist/
+mmap_array.dat
+*.dat
+.DS_Store
